@@ -1,1 +1,1 @@
-# catalog-service
+# lms-catalog-service
